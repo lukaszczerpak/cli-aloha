@@ -1,3 +1,3 @@
 from os import getenv
-print("Hello %s!" % getenv("USER"))
+print("Hello %s!!" % getenv("USER"))
 

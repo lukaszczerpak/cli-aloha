@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "python": "3.0.0"
+  },
+  "commands": [
+    {
+      "name": "hello",
+      "aliases": ["test"],
+      "version": "1.0.0",
+      "description": "CLI Hello World 👋"
+    }
+  ]
+}
